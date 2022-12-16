@@ -42,3 +42,4 @@ contract('TodoList', (accounts) => {
   })
 
 })
+
